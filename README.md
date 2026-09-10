@@ -8,7 +8,7 @@ Para clonar o repositório, utilize o seguinte comando:
 
 
 ```bash
-git clone https://github.com/Harley-7/CRUD-com-livraria.git
+git clone https://github.com/Harley-7/crud-laravel.git
 ```
 
 
@@ -18,7 +18,7 @@ Depois de clonar, entre no diretório do projeto com:
 
 
 ```bash
-cd CRUD-com-livraria/projeto
+cd crud-laravel
 ```
 
 
